@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+    {
+      "name" : "Neptune",
+      "hash" : "6de97f7388a28f5e564c8a8d4da81c47c0de3051520df1bbd61a0a784a4b1974"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.2.3",
+  "iOS" : [
+    {
+      "name" : "Neptune",
+      "hash" : "07dfb8cbd0f3505adba25123a9b9b5d010b726cc8092c4122a5340f1834945b9"
+    }
+  ]
+}
